@@ -1,0 +1,16 @@
+[INFO] 19:16:08:664 Servidor/(88028:88028): Servidor listo para recibir al cliente
+[INFO] 19:16:34:375 Servidor/(88258:88258): Servidor listo para recibir al cliente
+[INFO] 19:43:41:476 Servidor/(89386:89386): Servidor listo para recibir al cliente
+[INFO] 19:44:12:408 Servidor/(89386:89386): Se conecto un cliente!
+[INFO] 19:44:12:408 Servidor/(89386:89386): Me llego el mensaje valor
+[INFO] 19:44:13:301 Servidor/(89386:89386): Me llegaron los siguientes valores:
+
+[ERROR] 19:44:13:301 Servidor/(89386:89386): el cliente se desconecto. Terminando servidor
+[INFO] 19:44:38:179 Servidor/(89657:89657): Servidor listo para recibir al cliente
+[INFO] 19:44:53:470 Servidor/(89657:89657): Se conecto un cliente!
+[INFO] 19:44:53:472 Servidor/(89657:89657): Me llego el mensaje valor
+[INFO] 19:45:20:166 Servidor/(89657:89657): Me llegaron los siguientes valores:
+
+[INFO] 19:45:20:166 Servidor/(89657:89657): Se envia desde el cliente
+[INFO] 19:45:20:166 Servidor/(89657:89657): esto tmb desde el cliente
+[ERROR] 19:45:20:166 Servidor/(89657:89657): el cliente se desconecto. Terminando servidor
